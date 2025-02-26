@@ -73,6 +73,3 @@ src/
 
 ## Contributing
 This is a learning project. Feel free to fork and experiment!
-
-## License
-MIT License 
